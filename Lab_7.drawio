@@ -1,0 +1,294 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Страница — 1" id="eW8wt9M8RgmNSGHVoIsy">
+    <mxGraphModel dx="2603" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-2" target="xeCv00PIY2GsDMz-aNLA-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Реєстрація нового клієнта банку&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-844" y="203" width="176" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-3" target="xeCv00PIY2GsDMz-aNLA-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Запит клієнта&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1000" y="218" width="106" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-4" target="xeCv00PIY2GsDMz-aNLA-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Особисті дані&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1000" y="277" width="111" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xeCv00PIY2GsDMz-aNLA-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-815" y="203" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-815" y="203" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Політика банку&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-872" y="114" width="116" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-8" target="xeCv00PIY2GsDMz-aNLA-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Закони&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-744" y="114" width="64" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Банк&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-855" y="356" width="49" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Система обробки&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-757" y="358.01" width="132" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Співробітники&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-819" y="391" width="109" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.452;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-13" target="xeCv00PIY2GsDMz-aNLA-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.077;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-11" target="xeCv00PIY2GsDMz-aNLA-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.955;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-690.9200000000001" y="321.0039999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Профіль у&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;системі банку&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-625" y="239" width="107" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xeCv00PIY2GsDMz-aNLA-19" target="xeCv00PIY2GsDMz-aNLA-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Прийом запиту на реєстрацію&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;А1&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;spacingTop=12;spacingLeft=3;" parent="1" vertex="1">
+          <mxGeometry x="-1003" y="1018" width="189" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-20" target="xeCv00PIY2GsDMz-aNLA-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Верифікация особистих даних&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;А2&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;spacingTop=12;spacingLeft=3;" parent="1" vertex="1">
+          <mxGeometry x="-611" y="1045" width="189" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Створення клієнтського профілю&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 13px; background-color: initial;&quot;&gt;А3&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;spacingTop=12;spacingLeft=3;" parent="1" vertex="1">
+          <mxGeometry x="-222" y="1078" width="189" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Відкриття рахунку для клієнта&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;А4&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;spacingTop=12;spacingLeft=3;" parent="1" vertex="1">
+          <mxGeometry x="178" y="1113" width="189" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Завершення та надання реквізитів&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;А5&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;spacingTop=12;spacingLeft=3;" parent="1" vertex="1">
+          <mxGeometry x="591" y="1146" width="189" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-26" target="xeCv00PIY2GsDMz-aNLA-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Запит клієнта&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1144" y="1037.5" width="106" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-28" target="xeCv00PIY2GsDMz-aNLA-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-28" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Створення заявки&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-785" y="1037.5" width="135" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-31" target="xeCv00PIY2GsDMz-aNLA-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-31" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Оператор&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;/&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Онлайн-система&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-971" y="1125" width="126" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-33" target="xeCv00PIY2GsDMz-aNLA-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-33" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Особисті дані&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-771" y="1081" width="107" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.01;entryY=0.491;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-19" target="xeCv00PIY2GsDMz-aNLA-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-36" target="xeCv00PIY2GsDMz-aNLA-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-36" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Оператор&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;/&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Онлайн-система&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-579.5" y="1149" width="126" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-38" target="xeCv00PIY2GsDMz-aNLA-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-38" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Підтверджені дані&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-401" y="1064.5" width="135" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xeCv00PIY2GsDMz-aNLA-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-554" y="1045" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-554" y="1045" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-42" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Політика банку&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-611" y="989" width="116" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-454" y="1045" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-45" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Закони&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-486" y="989" width="64" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-46" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Інформаційна&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;система&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-182" y="1189.3600000000001" width="109" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.543;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-46" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-127.37299999999982" y="1146" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-48" target="xeCv00PIY2GsDMz-aNLA-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-48" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Унікальний профіль&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-9" y="1097.5" width="147" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.53;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-21" target="xeCv00PIY2GsDMz-aNLA-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xeCv00PIY2GsDMz-aNLA-55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="271.5" y="1115.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="271.5" y="1115.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-55" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Політика банку&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="214.5" y="1057" width="116" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-56" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Система&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;банку&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="178" y="1211.5" width="74" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-57" target="xeCv00PIY2GsDMz-aNLA-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-57" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Співробітник&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="270" y="1220" width="101" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.195;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-56" target="xeCv00PIY2GsDMz-aNLA-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-60" target="xeCv00PIY2GsDMz-aNLA-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-60" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Створений профіль&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;і рахунок&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1124" width="146" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.497;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-22" target="xeCv00PIY2GsDMz-aNLA-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-65" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="685" y="1217" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-65" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Співробітник&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="635" y="1256" width="101" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-66" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Документи та інструкція&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="819" y="1163" width="173" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.554;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-23" target="xeCv00PIY2GsDMz-aNLA-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-68" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Перевірка документів клієнта&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;А2.1&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;spacingTop=12;spacingLeft=3;" parent="1" vertex="1">
+          <mxGeometry x="75.5" y="143" width="189" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="xeCv00PIY2GsDMz-aNLA-68" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="177" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-69" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Паспорт, ІПН&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="414" y="168.5" width="102" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-71" target="xeCv00PIY2GsDMz-aNLA-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-71" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Система верифікації&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="93.5" y="250" width="153" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-73" target="xeCv00PIY2GsDMz-aNLA-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-73" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Скан-копії&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;документів&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="304" y="154" width="89" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.481;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-68" target="xeCv00PIY2GsDMz-aNLA-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-75" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Перевірка документів клієнта&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;А2.2&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;spacingTop=12;spacingLeft=3;" parent="1" vertex="1">
+          <mxGeometry x="439" y="177" width="189" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xeCv00PIY2GsDMz-aNLA-77" target="xeCv00PIY2GsDMz-aNLA-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-77" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Державні бази&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;даних&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="477.5" y="272" width="112" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-79" target="xeCv00PIY2GsDMz-aNLA-81" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-79" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Підтвердження&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;достовірності&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="664" y="173" width="117" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.009;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-75" target="xeCv00PIY2GsDMz-aNLA-79" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="645" y="195" />
+              <mxPoint x="645" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-81" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Оцінка ризиків клієнта&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;А2.3&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;spacingTop=12;spacingLeft=3;" parent="1" vertex="1">
+          <mxGeometry x="816" y="204" width="189" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-83" target="xeCv00PIY2GsDMz-aNLA-81" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="792" y="255" />
+              <mxPoint x="792" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-83" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Дані&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;клієнта&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="679" y="226" width="64" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xeCv00PIY2GsDMz-aNLA-86" target="xeCv00PIY2GsDMz-aNLA-81" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-86" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Аналітична&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;система&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="865" y="300" width="91" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-88" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Висновок&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;про надійність&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1037" y="215" width="111" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.025;entryY=0.51;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xeCv00PIY2GsDMz-aNLA-81" target="xeCv00PIY2GsDMz-aNLA-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-90" value="&lt;span style=&quot;font-size: 48px;&quot;&gt;Рівень 0&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1144" y="19" width="204" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-91" value="&lt;span style=&quot;font-size: 48px;&quot;&gt;Рівень 1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="46" y="19" width="204" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xeCv00PIY2GsDMz-aNLA-92" value="&lt;span style=&quot;font-size: 48px;&quot;&gt;Рівень 3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1144" y="861" width="204" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
